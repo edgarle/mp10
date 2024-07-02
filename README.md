@@ -1,7 +1,7 @@
 LÉEME
 =====
 
-Material particulado (MP10)
+Material particulado (MP<sub>10</sub>)
 ---------------------------
 
 Análisis del material particulado en hojas de árboles
